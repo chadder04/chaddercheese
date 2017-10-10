@@ -5,5 +5,5 @@ Personal website used as a foundation to learn everything I have come to love ab
 
 ### Final Product
 
-![ChadderCheese](https://github.com/chadder04/chaddercheese/blob/master/docs/site.jpg)
+![ChadderCheese](https://github.com/chadder04/chaddercheese/blob/master/docs/site.png)
 
